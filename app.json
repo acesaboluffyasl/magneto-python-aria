@@ -8,14 +8,14 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/GodMadaraa/python-aria-mirror-bot",
+    "repository": "https://github.com/GodMadaraa/magneto-python-aria",
     "website": "https://afdulfauzan.tech",
     "success_url": "https://t.me/afdlfz_mirror_bot",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
-        "value": "1694272873:AAF5o1bumIQ0nCg1vNaBv8bYGEt2hqsG-y0",
+        "value": "1694272873:AAFsXNslM3J_OmCbcgQeUVYEFpuD6LLez4w",
         "required": true
       },
       "GDRIVE_FOLDER_ID": {
